@@ -11,8 +11,8 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
-  animal = 'cat';
-  return animal
+  ani = 'cat';
+  return ani;
 }
 
 function add2(n) {
